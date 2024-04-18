@@ -12,13 +12,12 @@ Welcome to Google's Market Odyssey! This project offers a deep dive into Google'
 
 ## Problem Statement
 
-In today's rapidly evolving financial landscape, investors and traders face challenges in effectively analyzing historical stock market data to make informed decisions. Existing solutions often lack the specificity and depth required to uncover actionable insights and navigate market dynamics confidently.
+In today's rapidly evolving financial landscape, investors and traders face challenges in effectively analyzing historical stock market data to make informed decisions. Existing solutions sometimes lack the specificity and depth needed to fully uncover actionable insights and confidently navigate market dynamics.
 
 ### Key Objectives
 
 - Develop a comprehensive Power BI dashboard tailored for analyzing Google's historical stock market data.
 - Provide users with intuitive and insightful tools to facilitate informed decision-making in the stock market.
-- Enhance user experience by offering real-time updates on critical metrics, flexible analysis options, and predictive capabilities.
  - Enable users to identify patterns, correlations, and outliers in market dynamics through advanced visualizations.
  - Empower users with actionable insights and proactive investment strategies through forecasting features.
 
@@ -31,7 +30,7 @@ In today's rapidly evolving financial landscape, investors and traders face chal
 
 ### Proposed Solution
 
-- Our solution is to develop a robust Power BI dashboard equipped with a suite of features tailored for analyzing Google's historical stock market data. This dashboard will offer real-time updates on essential metrics and provide users with actionable insights to make informed decisions.
+- Our solution is to develop a Power BI dashboard equipped with a suite of features tailored for analyzing Google's historical stock market data.
 
 ## Dashbaord Overview
 
