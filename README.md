@@ -30,7 +30,7 @@ In today's rapidly evolving financial landscape, investors and traders face chal
 
 ### Proposed Solution
 
-- Our solution is to develop a Power BI dashboard equipped with a suite of features tailored for analyzing Google's historical stock market data.
+Our solution is to develop a Power BI dashboard equipped with a suite of features tailored for analyzing Google's historical stock market data.
 
 ## Dashbaord Overview
 
