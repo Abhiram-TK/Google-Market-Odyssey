@@ -61,6 +61,6 @@ By integrating data from MySQL into Power BI, this project enables stakeholders 
 
 ## Contact Information:
 
-❤️ Connect with me on [LinkedIn](#insert_linkedin_profile_link_here). 
+❤️ Connect with me on [LinkedIn](https://www.linkedin.com/in/abhiramtk). 
 
 🌟 Thank you for your interest in Google's Market Odyssey. Looking forward to connecting with you!
